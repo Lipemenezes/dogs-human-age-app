@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dogs Human Age</string>
+    <string name="label_edit_age">Tip your dog age to find out it\'s human age</string>
+    <string name="label_btn_calculate">Discover age</string>
+    <string name="label_empty_age">You need to tell me your friend age :)</string>
+    <string name="label_dog_age_start">Your friend would be&#160;</string>
+    <string name="label_dog_age_end">&#160;years old :D </string>
+</resources>
